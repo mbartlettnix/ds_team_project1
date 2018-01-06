@@ -6,11 +6,11 @@ In this project we will be determining the rough ROI, where the investment is ch
 
 ## Research Questions:
 * Which 10 cities in the US currently have the highest median salary for Data Scientists/Analysts?
-    ** Of the top 10 cities, what is the cost of living?
-    ** Of the top 10 cities, what is the crime rate?
-    ** Of the top 10 cities, what is the traffic?
-        ** What is the taxi fare and gas price?
-    ** Of the top 10 cities, what is the quality of life!?
+    * Of the top 10 cities, what is the cost of living?
+    * Of the top 10 cities, what is the crime rate?
+    * Of the top 10 cities, what is the traffic?
+        * What is the taxi fare and gas price?
+    * Of the top 10 cities, what is the quality of life!?
 
 * Bonus: What is the monthly projected salary vs project cost-of-living for a Data Scientist in the analyzed top 10 highest paying cities for the next year.
 
