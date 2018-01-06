@@ -19,7 +19,7 @@ In this project we will be determining the rough ROI, where the investment is ch
 
 
 ### Researchers:
-* Mindy Bartlett `mbartlettnix`
+* Mindy Bartlett `github.com/mbartlettnix`
 * Alexander Buitron `github.com/buitron`
-* Christina Wang `Christineeeea`
-* Harry Wang `HarryisCoding`
+* Christina Wang `github.com/Christineeeea`
+* Harry Wang `github.com/HarryisCoding`
