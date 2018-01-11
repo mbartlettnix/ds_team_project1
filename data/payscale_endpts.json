@@ -1,0 +1,89 @@
+{
+    "Base_URL": "https://www.payscale.com/research/",
+
+    "Country": {
+        "US": "US/Job=Data_Scientist%2c_IT/Salary"
+    },
+
+    "States": {
+        "CA": [
+            "/1435d5be/Cupertino-CA",
+            "/441d9c37/Irvine-CA",
+            "/d7e28689/Los-Angeles-CA",
+            "/a495546e/Menlo-Park-CA",
+            "/06f59d2a/Mountain-View-CA",
+            "/461fe482/Palo-Alto-CA",
+            "/f363734f/San-Diego-CA",
+            "/2e45ddc6/San-Francisco-CA",
+            "/0f3926ec/San-Jose-CA",
+            "/dc52fb22/San-Mateo-CA",
+            "/4e0bb767/Santa-Clara-CA",
+            "/e32c299c/Santa-Monica-CA",
+            "/7bb4f991/Sunnyvale-CA"
+        ],
+        "CO": [
+            "/b5574375/Boulder-CO",
+            "/a6542631/Denver-CO"
+        ],
+        "DC": [
+            "/9ec4646c/Washington-DC"
+        ],
+        "GA": [
+            "/e13eb8ef/Atlanta-GA"
+        ],
+        "IL": [
+            "/f305a5e1/Chicago-IL"
+        ],
+        "IN": [
+            "/38b07355/Indianapolis-IN"
+        ],
+        "MA": [
+            "/7e45210b/Boston-MA",
+            "/be966ca3/Cambridge-MA"
+        ],
+        "MO": [
+            "/c378b4e5/Kansas-City-MO",
+            "/ab6e3c1b/St.-Louis-MO"
+        ],
+        "MN": [
+            "/cba258a1/Minneapolis-MN"
+        ],
+
+        "NC": [
+            "/b2675ee2/Charlotte-NC",
+            "/afafb8c9/Raleigh-NC"
+        ],
+        "NY": [
+            "/c5eac7c5/New-York-NY"
+        ],
+        "OH": [
+            "/7c142d72/Cincinnati-OH",
+            "/51002080/Cleveland-OH"
+        ],
+        "OR": [
+            "/15647f50/Portland-OR"
+        ],
+        "PA": [
+            "/aa2c45fb/Philadelphia-PA"
+        ],
+        "TX": [
+            "/af929b1e/Austin-TX",
+            "/d4af521b/Dallas-TX",
+            "/2f9fb47f/Houston-TX",
+            "/0c8a4ab9/Nashville-TN",
+            "/b38d3e1f/Plano-TX"
+        ],
+        "UT": [
+            "/2724fd67/Salt-Lake-City-UT"
+        ],
+        "VA": [
+            "/b029bedb/McLean-VA",
+            "/d6e8e349/Reston-VA",
+            "/98612e07/Richmond-VA"
+        ],
+        "WA": [
+            "/59ec8dd0/Bellevue-WA",
+            "/ead76e48/Seattle-WA"
+        ]
+    }
+}
