@@ -14,7 +14,7 @@ for i in ps_json['States']:
         x += 1
 
 index = np.arange(x)
-df = pd.DataFrame(columns=['occupation','state','city','total_cash_comp_md_pay','base_salary_md_pay','bonus_med_pay','sample_size','last_reviewed'], index=index)
+df = pd.DataFrame(columns=['occupation','state','city','total_cash_comp_md_pay','base_salary_md_pay','bonus_md_pay','sample_size','last_reviewed'], index=index)
 
 
 counter = 0
