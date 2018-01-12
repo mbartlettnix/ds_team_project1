@@ -46,4 +46,4 @@ for state in ps_json['States']:
         df.iloc[counter] = row
         counter += 1
 
-df.to_csv('payscale_ds_salary.csv')
+df.to_csv('./salary/payscale_ds_salary.csv')
