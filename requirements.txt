@@ -1,0 +1,6 @@
+python==3.6.3
+pandas==0.20.3
+numpy==1.13.3
+requests==2.18.4
+beautifulsoup4==4.6.0
+geopy==1.11.0
