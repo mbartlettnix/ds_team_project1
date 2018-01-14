@@ -16,6 +16,10 @@ In this project we will be determining the rough ROI, where the investment is ch
 
 
 ### Data Sets:
+![numbeo_logo](./images/numbeo.png)
+![payscale_logo](./images/payscale.png)
+
+* Derived: __GeoPy__
 
 
 ### Researchers:
