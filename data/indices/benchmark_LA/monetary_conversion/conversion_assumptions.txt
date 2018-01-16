@@ -30,19 +30,6 @@ Assumptions break down:
   12).Sport Memberships: 2 Household members
   13).Vacation and Travel:  onece per year (one week each), relatively expensive
   14).Buying Clothing and Shoes: Moderate 
-  
-New York as Benchmark (Monthly)
-Single: (https://www.numbeo.com/cost-of-living/city-estimator/in/New-York?displayCurrency=USD&members=1&restaurants_percentage=50.0&inexpensive_restaurants_percentage=80.0&drinking_coffee_outside=200.0&going_out_monthly=4.2&smoking_packs_per_day=0.0&alcoholic_drinks=25.0&type_of_food=0&driving_car=40.0&taxi_consumption=0.0&paying_for_public_transport=None&sport_memberships=0.0&vacation=100.0&clothing_and_shoes=50.0&rent=none&displayCurrency=USD&members=1&restaurants_percentage=50.0&inexpensive_restaurants_percentage=80.0&drinking_coffee_outside=200.0&going_out_monthly=4.2&smoking_packs_per_day=0.0&alcoholic_drinks=25.0&type_of_food=0&driving_car=40.0&taxi_consumption=0.0&paying_for_public_transport=None&sport_memberships=0.0&vacation=100.0&clothing_and_shoes=50.0&rent=none)
-  1.cpi(life expense without rent): $1957.34
-  2.rent: (3096.05+1886.53)/2 = $2491.29
-  3.groceries: $283.69
-  4.restaurant: $795.83
-
-Family: (https://www.numbeo.com/cost-of-living/city-estimator/in/New-York?displayCurrency=USD&members=4&restaurants_percentage=25.0&inexpensive_restaurants_percentage=30.0&drinking_coffee_outside=200.0&going_out_monthly=2&smoking_packs_per_day=0.0&alcoholic_drinks=10.0&type_of_food=0&driving_car=40.0&taxi_consumption=0.0&paying_for_public_transport=None&sport_memberships=2.0&vacation=51.0&clothing_and_shoes=50.0&rent=none&displayCurrency=USD&members=4&restaurants_percentage=25.0&inexpensive_restaurants_percentage=30.0&drinking_coffee_outside=200.0&going_out_monthly=2&smoking_packs_per_day=0.0&alcoholic_drinks=10.0&type_of_food=0&driving_car=40.0&taxi_consumption=0.0&paying_for_public_transport=None&sport_memberships=2.0&vacation=51.0&clothing_and_shoes=50.0&rent=none)
-  1.cpi(life expense without rent): $5699.47
-  2.rent: (6017.17+3321.3)/2 = $4669.235
-  3.groceries: $1418.43
-  4.restaurant: $2365.20
 
 
 Los Angeles as Benchmark (Monthly)
