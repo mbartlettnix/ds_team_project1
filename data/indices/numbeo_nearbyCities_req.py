@@ -12,7 +12,7 @@ col_select = [k for k, v in json_data.items()]
 columns = ['city']
 columns.extend(col_select)
 
-file_path = './cities/'
+file_path = '../cities/'
 
 def try_list(lst, cols, numbeo):
     for item in cols:
@@ -45,4 +45,4 @@ for filename in os.listdir(file_path):
             numbeo_indices_df.iloc[row] = row_ls
 
         numbeo_indices_df.drop('name', axis=1, inplace=True)
-        numbeo_indices_df.to_csv('./indices/nearby_cities/{}_ds_indices.csv'.format(filename[:-13]))
+        numbeo_indices_df.to_csv('./nearby_cities/{}_ds_indices.csv'.format(filename[:-13]))
