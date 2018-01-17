@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 from math import pi
 
 
-df = pd.read_csv('../data/indices/numbeo_ds_indices.csv')
+df = pd.read_csv('../../../data/indices/numbeo_ds_indices.csv')
 
 df_plot = df[['city', 'state', 'crime_index', 'traffic_index', 'climate_index', 'health_care_index', 'safety_index', 'pollution_index']][1:5].reset_index(drop=True)
 
