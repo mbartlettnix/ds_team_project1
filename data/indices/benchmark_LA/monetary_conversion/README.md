@@ -21,7 +21,7 @@ If a city has rent index of 70, that means on an average in that city rents are 
 * ds_family_usd = base_salary_md_pay / 12 - col_family_usd
 
 # Assumptions break down:
-* 1. Single:
+* Single:
   * 1).Members of your household: 1
   * 2).Eating lunch or dinner in restaurants: 50% of the time
   * 3).When eating in restaurants you are chosing inexpensive restaurants: 80% of the time
@@ -37,7 +37,7 @@ If a city has rent index of 70, that means on an average in that city rents are 
   * 13).Vacation and Travel:  Two per year (one week each), relatively expensive
   * 14).Buying Clothing and Shoes: Moderate 
 
-* 2. Family:
+* Family:
   * 1).Members of your household: 4
   * 2).Eating lunch or dinner in restaurants: 25% of the time
   * 3).When eating in restaurants you are chosing inexpensive restaurants: 30% of the time
@@ -55,13 +55,13 @@ If a city has rent index of 70, that means on an average in that city rents are 
 
 
 * Los Angeles as Benchmark (Monthly)
-* Single: (https://www.numbeo.com/cost-of-living/city-estimator/in/Los-Angeles?displayCurrency=USD&members=1&restaurants_percentage=50.0&inexpensive_restaurants_percentage=80.0&drinking_coffee_outside=200.0&going_out_monthly=4.2&smoking_packs_per_day=0.0&alcoholic_drinks=25.0&type_of_food=0&driving_car=40.0&taxi_consumption=0.0&paying_for_public_transport=None&sport_memberships=0.0&vacation=100.0&clothing_and_shoes=50.0&rent=none&displayCurrency=USD&members=1&restaurants_percentage=50.0&inexpensive_restaurants_percentage=80.0&drinking_coffee_outside=200.0&going_out_monthly=4.2&smoking_packs_per_day=0.0&alcoholic_drinks=25.0&type_of_food=0&driving_car=40.0&taxi_consumption=0.0&paying_for_public_transport=None&sport_memberships=0.0&vacation=100.0&clothing_and_shoes=50.0&rent=none)
+ * Single: (https://www.numbeo.com/cost-of-living/city-estimator/in/Los-Angeles?displayCurrency=USD&members=1&restaurants_percentage=50.0&inexpensive_restaurants_percentage=80.0&drinking_coffee_outside=200.0&going_out_monthly=4.2&smoking_packs_per_day=0.0&alcoholic_drinks=25.0&type_of_food=0&driving_car=40.0&taxi_consumption=0.0&paying_for_public_transport=None&sport_memberships=0.0&vacation=100.0&clothing_and_shoes=50.0&rent=none&displayCurrency=USD&members=1&restaurants_percentage=50.0&inexpensive_restaurants_percentage=80.0&drinking_coffee_outside=200.0&going_out_monthly=4.2&smoking_packs_per_day=0.0&alcoholic_drinks=25.0&type_of_food=0&driving_car=40.0&taxi_consumption=0.0&paying_for_public_transport=None&sport_memberships=0.0&vacation=100.0&clothing_and_shoes=50.0&rent=none)
   * 1.cpi(life expense without rent): $1760.35
   * 2.rent: (2075.33+1582.08)/2 = $1828.705
   * 3.groceries: $241.80
   * 4.restaurant: $667.70
-
-* Family: (https://www.numbeo.com/cost-of-living/city-estimator/in/Los-Angeles?displayCurrency=USD&members=4&restaurants_percentage=25.0&inexpensive_restaurants_percentage=30.0&drinking_coffee_outside=200.0&going_out_monthly=2&smoking_packs_per_day=0.0&alcoholic_drinks=10.0&type_of_food=0&driving_car=40.0&taxi_consumption=0.0&paying_for_public_transport=None&sport_memberships=2.0&vacation=51.0&clothing_and_shoes=50.0&rent=none&displayCurrency=USD&members=4&restaurants_percentage=25.0&inexpensive_restaurants_percentage=30.0&drinking_coffee_outside=200.0&going_out_monthly=2&smoking_packs_per_day=0.0&alcoholic_drinks=10.0&type_of_food=0&driving_car=40.0&taxi_consumption=0.0&paying_for_public_transport=None&sport_memberships=2.0&vacation=51.0&clothing_and_shoes=50.0&rent=none)
+  
+ * Family: (https://www.numbeo.com/cost-of-living/city-estimator/in/Los-Angeles?displayCurrency=USD&members=4&restaurants_percentage=25.0&inexpensive_restaurants_percentage=30.0&drinking_coffee_outside=200.0&going_out_monthly=2&smoking_packs_per_day=0.0&alcoholic_drinks=10.0&type_of_food=0&driving_car=40.0&taxi_consumption=0.0&paying_for_public_transport=None&sport_memberships=2.0&vacation=51.0&clothing_and_shoes=50.0&rent=none&displayCurrency=USD&members=4&restaurants_percentage=25.0&inexpensive_restaurants_percentage=30.0&drinking_coffee_outside=200.0&going_out_monthly=2&smoking_packs_per_day=0.0&alcoholic_drinks=10.0&type_of_food=0&driving_car=40.0&taxi_consumption=0.0&paying_for_public_transport=None&sport_memberships=2.0&vacation=51.0&clothing_and_shoes=50.0&rent=none)
   * 1.cpi(life expense without rent): $4791.38
   * 2.rent: (3466.02+2722.98)/2 = $3094.5
   * 3.groceries: $1209.02
