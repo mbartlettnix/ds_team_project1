@@ -4,8 +4,7 @@ These indices are relative to Los Angeles(LA). Which means that for Los Angeles,
 If another city has, for example, rent index of 120, 
 it means that on an average in that city rents are 20% more expensive than in Los Angeles. 
 If a city has rent index of 70, that means on an average in that city rents are 30% less expensive than in Los Angeles.
-* P.S. You may find out the indices of LA are not 100(%). Because we convert indices to prices based on LA((100)%)then 
-     * take average of LA and its nearby cities. It will not affect the results.
+* P.S. You may find out the indices of LA are not 100(%). Because we convert indices to prices based on LA((100)%)then take average of LA and its nearby cities. It will not affect the results.
      
 # Columns explanations:
 * cpi_single_usd = cpi_index / 100 * la_based_data
