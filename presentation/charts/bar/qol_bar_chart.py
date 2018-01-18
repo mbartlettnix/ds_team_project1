@@ -48,9 +48,9 @@ for df in status:
 
 
 
-        rects1 = plt.barh(index, place, bar_width, color='#2149E8', label='place')
+        rects1 = plt.barh(index, place, bar_width, color='#2149E8', label=city)
 
-        rects2 = plt.barh(index + bar_width, benchmark, bar_width, color='lightgray', label=city)
+        rects2 = plt.barh(index + bar_width, benchmark, bar_width, color='lightgray', label='Los Angeles')
 
 
         plt.yticks(index + bar_width / 2, columns, color='white', size=20)
