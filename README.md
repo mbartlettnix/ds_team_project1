@@ -1,10 +1,20 @@
 # Data Scientists on the Move
+![data_scientis](./images/ds.jpg)
+
 
 ## Description:
-In this project we will be determining the rough ROI, where the investment is choosing a career as a Data Scientist, against the Rent/Cost of Living. Based off of the top 10 cities for Data Scientists jobs, established by salary, we will be exploring the rent cost and determining which locations are more suitable for future data scientist to apply to.
+In this project we will be determining the most profitable cities for Data Scientists to live in respect to base salary of those cities against the rent + cost of Living.
 
 
 ## Research Questions:
+* Which 10 cities in the US currently have the highest average salary for Data Scientists?
+* Which 10 cities have the highest ‘net living’ for a single Data Scientist?
+    * Of the top 3 cities, what are the ‘quality of life’ factors?
+    * Of the top 3 cities, how do the cost of living components compare to the designated benchmark?
+* Which 10 cities have the highest ‘net living’ for a Data Scientist with a family of four
+    * Of the top 3 cities, what are the ‘quality of life’ factors?
+    * Of the top 3 cities, how do the cost of living components compare to the designated benchmark?
+
 * Which 10 cities in the US currently have the highest median salary for Data Scientists/Analysts?
     * Of the top 10 cities, what is the cost of living?
     * Of the top 10 cities, what is the crime rate?
@@ -12,14 +22,10 @@ In this project we will be determining the rough ROI, where the investment is ch
         * What is the taxi fare and gas price?
     * Of the top 10 cities, what is the quality of life!?
 
-* Bonus: What is the monthly projected salary vs project cost-of-living for a Data Scientist in the analyzed top 10 highest paying cities for the next year.
-
 
 ### Data Sets:
 ![numbeo_logo](./images/numbeo.png)
 ![payscale_logo](./images/payscale.png)
-
-* Derived: __GeoPy__
 
 
 ### Researchers:
