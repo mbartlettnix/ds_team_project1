@@ -3,7 +3,7 @@
 
 
 ## Description:
-In this project we will be determining the most profitable cities for Data Scientists to live in respect to base salary of those cities against the rent + cost of Living.
+In this project we will be determining the most profitable cities for Data Scientists to live in the US in respect to base salary of those cities against the rent + cost of Living.
 
 
 ## Research Questions:
