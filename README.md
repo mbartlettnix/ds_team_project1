@@ -15,13 +15,6 @@ In this project we will be determining the most profitable cities for Data Scien
     * Of the top 3 cities, what are the ‘quality of life’ factors?
     * Of the top 3 cities, how do the cost of living components compare to the designated benchmark?
 
-* Which 10 cities in the US currently have the highest median salary for Data Scientists/Analysts?
-    * Of the top 10 cities, what is the cost of living?
-    * Of the top 10 cities, what is the crime rate?
-    * Of the top 10 cities, what is the traffic?
-        * What is the taxi fare and gas price?
-    * Of the top 10 cities, what is the quality of life!?
-
 
 ### Data Sets:
 ![numbeo_logo](./images/numbeo.png)
