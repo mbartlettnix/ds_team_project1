@@ -35,7 +35,93 @@ In order to give value to the normalized data we decided to create two seperate 
 |14).Buying Clothing and Shoes:|Moderate|Moderate|
 
 
+## Data Analysis: Data Overview
+After scraping data from Payscale that describes the median salary for Data Scientists across the US we sorted it to show the top top cities. The Geographical graph below visually represents that data.
 
-## Charts
-Here is a sample of __Quality of Life__ radar charts
-![radar chart](./charts/radar/test_img.png)
+![Top 10 DS Salary Cities](./charts/map/usmap.png)
+
+
+## Data Analysis: Top Ten Cities for a Data Scientist
+The charts below indicate the top 10 cities for either a single Data Scientist or a Data Scientist with a family of four based off of this equation:
+`profit margin = median salary/month - (mean of nearby cities(cpi) + mean of nearby cities(rent))`
+
+![Top 10 Net Living Single DS](./charts/bar/singlebar.png)
+![Top 10 Net Living Family DS](./charts/bar/familybar.png)
+
+
+## Data Analysis: Top Three Cities for a Single Data Scientist
+The following charts shown below indicate the difference between cost of living prices, salaries, and quality of life factors, which are based off of non-monetary elements such as pollution, and health care, compared to those of Los Angeles.
+\*Note that we are using the __Single DS__ profile values defined earlier for this analysis.
+
+### City # 3: San Jose, CA
+| Cost of Living Element | San Jose Price |
+|------------------------|----------------|
+| Restaurant | $660 |
+| Groceries | $267 |
+| Rent | $1,920 |
+| DS Salary/Mo | $9,759 |
+| Net Living | $5,959 |
+
+![San Jose bar chart](./charts/bar/README_San_Jose_single_qol.png)
+![San Jose radar chart](./charts/radar/README_San_Jose_qol.png)
+### City # 2: Bellevue, WA
+| Cost of Living Element | Bellevue Price |
+|------------------------|----------------|
+| Restaurant | $624 |
+| Groceries | $259 |
+| Rent | $1,110 |
+| DS Salary/Mo | $9,331 |
+| Net Living | $6,433 |
+
+![Bellevue bar chart](./charts/bar/README_Bellevue_single_qol.png)
+![Bellevue radar chart](./charts/radar/README_Bellevue_qol.png)
+### City # 1: Cupertino, CA
+| Cost of Living Element | Cupertino Price |
+|------------------------|-----------------|
+| Restaurant | $660 |
+| Groceries | $267 |
+| Rent | $1,920 |
+| DS Salary/Mo | $10,417 |
+| Net Living | $6,616 |
+
+![Cupertino bar chart](./charts/bar/README_Cupertino_single_qol.png)
+![Cupertino radar chart](./charts/radar/README_Cupertino_qol.png)
+
+
+## Data Analysis: Top Three Cities for a Data Scientist w/a Family
+The following charts shown below indicate the difference between cost of living prices, salaries, and quality of life factors, which are based off of non-monetary elements such as pollution, and health care, compared to those of Los Angeles.
+\*Note that we are using the __Family DS__ profile values defined earlier for this analysis.
+
+### City # 3: Richmond, VA
+| Cost of Living Element | Richmond Price |
+|------------------------|----------------|
+| Restaurant | $1,690 |
+| Groceries | $1,078 |
+| Rent | $1,515 |
+| DS Salary/Mo | $7,917 |
+| Net Living | $2,270 |
+
+![Richmond bar chart](./charts/bar/README_Richmond_family_qol.png)
+![Richmond radar chart](./charts/radar/README_Richmond_qol.png)
+### City # 2: San Diego, CA
+| Cost of Living Element | San Diego Price |
+|------------------------|-----------------|
+| Restaurant | $1,633 |
+| Groceries | $1,016 |
+| Rent | $1,875 |
+| DS Salary/Mo | $7,610 |
+| Net Living | $2,522 |
+
+![San Diego bar chart](./charts/bar/README_San_Diego_family_qol.png)
+![San Diego radar chart](./charts/radar/README_San_Diego_qol.png)
+### City # 1: Bellevue, CA
+| Cost of Living Element | Bellevue Price |
+|------------------------|----------------|
+| Restaurant | $1,755 |
+| Groceries | $1,294 |
+| Rent | $1,878 |
+| DS Salary/Mo | $9,331 |
+| Net Living | $2,586 |
+
+![Bellevue bar chart](./charts/bar/README_Bellevue_family_qol.png)
+![Bellevue radar chart](./charts/radar/README_Bellevue_qol.png)
